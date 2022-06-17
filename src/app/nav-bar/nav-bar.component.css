@@ -1,0 +1,11 @@
+.spacer {
+    flex: 1 1 auto;
+}
+
+.logo {
+    height: 220px;
+}
+
+.logo:hover {
+    filter: brightness(1.2);
+}
